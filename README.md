@@ -17,35 +17,23 @@ Este é um projeto de aplicação de pagamento utilizando Pix, desenvolvido com 
 ## Instalação
 
 1. **Clone o repositório:**
-   \`\`\`bash
    git clone https://github.com/JoaoMiottiTec/FrontEndTest--Woovi
-   \`\`\`
 2. **Navegue até o diretório do projeto:**
-   \`\`\`bash
    cd FrontEndTest--Woovi/pix
-   \`\`\`
 3. **Instale as dependências:**
-   \`\`\`bash
    npm install
-   \`\`\`
    ou
-   \`\`\`bash
    yarn install
-   \`\`\`
 
 ## Execução
 
 Para rodar o projeto em modo de desenvolvimento:
 
-\`\`\`bash
 npm start
-\`\`\`
 ou
-\`\`\`bash
 yarn start
-\`\`\`
 
-A aplicação estará disponível em \`http://localhost:3000\`.
+A aplicação estará disponível em http://localhost:3000.
 
 ## Estrutura do Projeto
 
